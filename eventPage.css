@@ -1,0 +1,28 @@
+input {
+	position: center;
+	margin: 8px 0;
+	padding: 12px 20px;
+}
+
+#header {
+	text-align: center;
+
+}
+
+#button {
+	width: 50%;
+	transform: translateY(100px);
+}
+
+#container {
+	/* background-image: url(charityhands.jpg); */
+	background-color: #87f3fd;
+
+}
+
+#eventCreation {
+	color: black;
+	font-family: Ebrima;
+	transform: translateX(45%);
+
+}
